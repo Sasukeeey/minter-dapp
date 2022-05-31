@@ -38,7 +38,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://potatomafia.netlify.app/", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -62,12 +62,12 @@ const TOKENS_PER_MINT = 5; // maximum number of NFTs a user can mint in a single
 const PUBLIC_MINT_START_DATE = "2022-05-31T20:00:00+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE = "2022-05-31T20:00:00+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE = "2022-05-31T14:20:00+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 100; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0xCDd8C6363DE1140118ce0d78C1fA4a42cD325678"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
-const PRESALE_WHITELISTED_ADDRESSES = [0xCDd8C6363DE1140118ce0d78C1fA4a42cD325678]; // only update if you want to manually set the whitelisted addresses
+const PRESALE_WHITELISTED_ADDRESSES = ["0xCDd8C6363DE1140118ce0d78C1fA4a42cD325678"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
 let CONTRACT_ADDRESS = "0xCF71dcefc7FaE9D073F124643201f5d7E99a8B42"; // If you want to manually include it
