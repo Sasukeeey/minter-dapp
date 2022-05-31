@@ -1,7 +1,7 @@
 const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Potato Mafia!!";
+const welcome_h1 = "Bonasera Bonasera *italian noises*";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = '';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
