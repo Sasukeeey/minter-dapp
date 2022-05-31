@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Potato Family!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = '1% Royalties';
+const welcome_p = 'Only 3000 Supply with 1% Royalties';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "";
 const h1_public_mint = "Public Minting Open!!";
